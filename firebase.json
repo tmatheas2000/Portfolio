@@ -1,0 +1,11 @@
+{
+  "hosting": {
+    "site":"matheas-portfolio",
+    "public": "public",
+    "ignore": [
+      "firebase.json",
+      "**/.*",
+      "**/node_modules/**"
+    ]
+  }
+}
